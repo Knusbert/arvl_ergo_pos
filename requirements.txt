@@ -1,0 +1,17 @@
+# GUI
+streamlit
+# == 1.25.0
+
+# plotting
+matplotlib==3.7.0
+plotly==5.14.1
+
+# analysis
+numpy==1.23.5
+scipy==1.9.1
+
+# pose detection
+opencv-python==4.8.0.74
+# Pillow == 10.0.0
+torch 
+torchvision
